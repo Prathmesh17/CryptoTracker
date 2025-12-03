@@ -15,7 +15,8 @@ Built with **Swift/SwiftUI**.
 ---
 
 ## 📸 Demo
-[![Watch the demo](assets/thumbnail.png)](https://drive.google.com/file/d/1rdLa7YKinU1UKQOQ3FpVPctEzwtfZn3e/view?usp=drive_link)
+
+https://github.com/user-attachments/assets/a2ead774-7f63-481e-96e3-595ba0280e0d
 
 ---
 
